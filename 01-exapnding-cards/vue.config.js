@@ -13,6 +13,6 @@ module.exports = {
 
   publicPath:
     process.env.NODE_ENV === "production"
-      ? "/50-JS-mini-projects-remade-in-Vue-/01-exapnding-cards//"
+      ? "/50-JS-mini-projects-remade-in-Vue/"
       : "/",
 };
